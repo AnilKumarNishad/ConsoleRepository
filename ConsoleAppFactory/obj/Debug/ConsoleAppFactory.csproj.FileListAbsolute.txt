@@ -1,0 +1,13 @@
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppFactory.dll
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppFactory.pdb
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppEntity.dll
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppInterfaces.dll
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppRespository.dll
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppEntity.pdb
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppInterfaces.pdb
+E:\RND\ConsoleApp\ConsoleAppFactory\bin\Debug\ConsoleAppRespository.pdb
+E:\RND\ConsoleApp\ConsoleAppFactory\obj\Debug\ConsoleAppFactory.csprojResolveAssemblyReference.cache
+E:\RND\ConsoleApp\ConsoleAppFactory\obj\Debug\ConsoleAppFactory.csproj.CoreCompileInputs.cache
+E:\RND\ConsoleApp\ConsoleAppFactory\obj\Debug\ConsoleAppFactory.csproj.CopyComplete
+E:\RND\ConsoleApp\ConsoleAppFactory\obj\Debug\ConsoleAppFactory.dll
+E:\RND\ConsoleApp\ConsoleAppFactory\obj\Debug\ConsoleAppFactory.pdb
