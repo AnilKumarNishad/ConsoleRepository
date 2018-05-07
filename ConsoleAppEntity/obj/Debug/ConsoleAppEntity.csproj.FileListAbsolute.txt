@@ -1,0 +1,5 @@
+E:\RND\ConsoleApp\ConsoleAppEntity\bin\Debug\ConsoleAppEntity.dll
+E:\RND\ConsoleApp\ConsoleAppEntity\bin\Debug\ConsoleAppEntity.pdb
+E:\RND\ConsoleApp\ConsoleAppEntity\obj\Debug\ConsoleAppEntity.csproj.CoreCompileInputs.cache
+E:\RND\ConsoleApp\ConsoleAppEntity\obj\Debug\ConsoleAppEntity.dll
+E:\RND\ConsoleApp\ConsoleAppEntity\obj\Debug\ConsoleAppEntity.pdb
